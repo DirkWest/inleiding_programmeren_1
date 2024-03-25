@@ -1,5 +1,6 @@
 console.log ("Test123")
 
+// 􂄽 Bron: Sonja Rouwhorst
 let afbeeldingvoor = document.getElementById("voorkantauto");
 let knopjeblauw =document.getElementById("knopjeblauw")
 let knopjewit = document.getElementById("knopjewit")
